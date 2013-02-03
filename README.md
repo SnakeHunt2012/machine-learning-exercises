@@ -1,4 +1,4 @@
 machine-learning-exercises
 ==========================
 
-Programming Exercises for Open Course Machine Learning at Coursera
+Solutions for Programming Exercises for Open Course Machine Learning at Coursera
