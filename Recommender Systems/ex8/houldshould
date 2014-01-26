@@ -1,0 +1,36 @@
+   -5.14974   -5.14974
+    2.15656    2.15656
+    1.86145    1.86145
+   -3.38172   -3.38172
+    3.11137    3.11137
+   -1.25814   -1.25814
+    0.43522    0.43522
+    4.59343    4.59343
+    2.38777    2.38777
+   -0.87271   -0.87271
+    5.65915    5.65915
+   12.04083   12.04083
+    0.00000    0.00000
+    0.00000    0.00000
+    4.22337    4.22337
+    3.55610    3.55610
+   -7.40470   -7.40470
+    0.00000    0.00000
+    0.00000    0.00000
+    2.17471    2.17471
+    1.55680    1.55680
+   -0.81260   -0.81260
+    0.00000    0.00000
+    0.00000    0.00000
+  -11.29037  -11.29037
+   -7.79928   -7.79928
+    6.85311    6.85311
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
+If your backpropagation implementation is correct, then 
+the relative difference will be small (less than 1e-9). 
+
+Relative Difference: 1.04352e-12
+
+Program paused. Press enter to continue.
